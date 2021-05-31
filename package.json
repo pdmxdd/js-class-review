@@ -1,0 +1,15 @@
+{
+  "name": "class-assignment",
+  "description": "You need to create two different classes:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "MIT"
+}
